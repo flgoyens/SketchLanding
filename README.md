@@ -1,6 +1,6 @@
 # SketchLanding
 
-A Julia implementation of the **sketched landing method** — a randomised, infeasible algorithm for optimisation under orthogonality constraints [Arxiv](https://arxiv.org/abs/2605.31505).
+A Julia implementation of the **sketched landing method** — a randomised, infeasible algorithm for optimisation under orthogonality constraints [Arxiv](https://arxiv.org/abs/2605.31505). In notes, find an addendum of the paper (to appear in Controlo 2026, https://controlo2026.apca.pt/).
 
 ## Problem
 
