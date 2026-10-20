@@ -11,6 +11,7 @@ Manifest-v*.toml
 *.png
 *.pdf
 *.svg
+!notes/*.pdf
 
 # Claude Code
 .claude/
