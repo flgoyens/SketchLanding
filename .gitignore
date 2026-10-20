@@ -1,0 +1,26 @@
+# Julia
+Manifest.toml
+Manifest-v*.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/docs/build/
+/docs/Manifest.toml
+
+# Generated plots and outputs
+*.png
+*.pdf
+*.svg
+
+# Claude Code
+.claude/
+CLAUDE.local.md
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
